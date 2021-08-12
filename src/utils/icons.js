@@ -1,3 +1,3 @@
-export const icons = {
-    mail: require('../images/Icon material-email.svg')
-}
+// export const icons = {
+//     mail: require('../images/Icon material-email.svg')
+// }
